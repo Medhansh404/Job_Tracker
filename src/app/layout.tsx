@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 function TopNav(){
   return (
     <nav className="flex w-full items-center justify-between border-b p-4 text-xl font-semibold ">
-    <div>Report Tracker</div>
+    <div>Job Tracker</div>
     
     <div> Sign In</div>
     </nav>
